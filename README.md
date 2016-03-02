@@ -4,6 +4,4 @@ Welcome to my Application for Cohort 6!
 
 My name is Jessica Rose Smith.
 
-I have two separate pages one for my Resume and another for my responses to the Essay Questions.
-
-Looking forward to meeting you!
+Thanks for your time, I'm looking forward to meeting you!
